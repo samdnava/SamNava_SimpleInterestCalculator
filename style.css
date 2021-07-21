@@ -19,3 +19,32 @@ h1 {
     text-align: left;
     margin: auto;
 }
+
+p {
+    margin-left: 80px;
+    margin-bottom: 0px;
+    margin-top: 8px;
+}
+
+button {
+    cursor: pointer;
+}
+
+#principal {
+    margin-left: 66px;
+    width: 150px;
+    height: 14px;
+}
+
+#rate {
+    margin-left: 29px;
+    width: 140px;
+}
+
+#years {
+    margin-left: 34px;
+}
+
+footer {
+    margin-top: 10px;
+}

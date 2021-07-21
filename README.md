@@ -1,1 +1,1 @@
-# Interest-Calculator-coding-project
+# coding-project-template
